@@ -1,5 +1,5 @@
 
-# IMDb WebScraping
+# Twitter Sentiment Analysis
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/junaidfiaz143) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg)](https://www.python.org/)
 
